@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/kpuc313/Steam-Account-Shortcut-Generator/master/icon.ico" width="35px" height="35px"> Steam Account Shortcut Generator v1.0
+# <img src="https://raw.githubusercontent.com/kpuc313/Steam-Account-Shortcut-Generator/master/icon.ico" width="35px" height="35px"> Steam Account Shortcut Generator v2025.03.16
 * This application generate shortcuts to steam accounts on your desktop.
 
 * You can make multiple shortcuts with different steam accounts and when you launch steam from one of these shortcuts, it will automatically switch to selected shortcut account.
@@ -14,7 +14,7 @@ Steam®, Steam® Logo and all related elements are trademarks of and © Valve Co
 <br />
 
 # :arrow_down: Download
-* <b>[Latest version](https://github.com/kpuc313/Steam-Account-Shortcut-Generator/releases/tag/v1.0 "Latest version")</b>
+* <b>[Latest version](https://github.com/kpuc313/Steam-Account-Shortcut-Generator/releases/tag/v2025.03.16 "Latest version")</b>
 * <b>[All versions](https://github.com/kpuc313/Steam-Account-Shortcut-Generator/releases "All versions")</b>
 
 <br />

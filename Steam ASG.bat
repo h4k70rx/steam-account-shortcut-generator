@@ -2,7 +2,7 @@
 rem [ SETTINGS ]==========================================================
 set AppName=Steam Account Shortcut Generator
 set AppAuthor=kpuc313
-set AppVersion=v1.0
+set AppVersion=v2025.03.16
 set AppHomePage=https://github.com/kpuc313
 set AppExtName=sas
 rem ======================================================================
@@ -34,9 +34,9 @@ start steam://open/main
 exit
 
 :INSTALL
-echo                  --------------------------------------
-echo                  %AppName%  %AppVersion%
-echo                  -------- Developed by %AppAuthor% --------
+echo               --------------------------------------------
+echo               %AppName% %AppVersion%
+echo               ----------- Developed by %AppAuthor% -----------
 echo.
 echo                      [ %AppHomePage% ]
 echo.
