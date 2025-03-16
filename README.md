@@ -27,7 +27,7 @@ Steam®, Steam® Logo and all related elements are trademarks of and © Valve Co
 
 # :milky_way: Preview
 * Generator<br />
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Shortcut-Generator/master/Preview/Preview%2001.png)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Shortcut-Generator/master/preview/preview_01.png)
 
 * Example shortcuts created with the generator, each of them is connected with different account.<br />
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Shortcut-Generator/master/Preview/Preview%2002.png)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Shortcut-Generator/master/preview/preview_02.png)
