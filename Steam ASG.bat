@@ -1,9 +1,9 @@
 @echo off
 rem [ SETTINGS ]==========================================================
 set AppName=Steam Account Shortcut Generator
-set AppAuthor=kpuc313
+set AppAuthor=h4k70rx
 set AppVersion=v2025.03.16
-set AppHomePage=https://github.com/kpuc313
+set AppHomePage=https://github.com/h4k70rx
 set AppExtName=sas
 rem ======================================================================
 
