@@ -44,5 +44,5 @@
 
 <h1>:copyright: Copyright <a href="#-steam-account-shortcut-generator-v20250316" title="Go to Navigation">[↑]</a></h1>
 
-© kpuc313. All rights reserved. This application is not affiliated with Steam® or © Valve Corporation.<br />
+© h4k70rx. All rights reserved. This application is not affiliated with Steam® or © Valve Corporation.<br />
 Steam®, Steam® Logo and all related elements are trademarks of and © Valve Corporation.
